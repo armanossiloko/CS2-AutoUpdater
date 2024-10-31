@@ -29,7 +29,7 @@
   git clone https://github.com/dran1x/CS2-AutoUpdater && cd CS2-AutoUpdater
 
   # Make sure the CounterStrikeSharp dependacy has a valid path.
-  dotnet publish -f net7.0 -c Release 
+  dotnet publish -f net8.0 -c Release 
   ```
 
 # Confiuration
